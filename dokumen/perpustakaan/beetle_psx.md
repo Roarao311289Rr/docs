@@ -34,10 +34,10 @@ Required or optional firmware files go in the frontend's system directory.
 
 As a replacement for any of the BIOS files mentioned above, it is also possible to use either of these BIOSes:
 
-- `PSXONPSP660.bin` (MD5: c53ca5908936d412331790f4426c6c33)
+- )
 - `ps1_rom.bin` (MD5: 81bbe60ba7a3d1cea1d48c14cbcc647b)
 
-The `PSXONPSP660.bin` BIOS comes from the PSP, and the `ps1_rom.bin` BIOS comes from the PS3, both are region-free.
+The  the `ps1_rom.bin` BIOS comes from the PS3, both are region-free.
 For Beetle PSX to recognize either of these BIOSes, you need to enable the "Override BIOS" option.
 
 ## Extensions
